@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is a blog for CS 373 Software Engineering. In here, I talked about my weekly experiences in class.
+This is a blog for CS 373 Software Engineering. In here, I talk about my weekly experiences in class.
 
 ### Contact me
 
