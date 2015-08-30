@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+This is a blog for CS 373 Software Engineering. In here, I talked about my weekly experiences in class.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rickliao@utexas.edu](mailto:rickliao@utexas.edu)
