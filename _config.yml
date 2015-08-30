@@ -9,7 +9,7 @@ name: "CS373 Fall 2015: I-Hsun Liao"
 description: Computer science student at University of Texas at Austin
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/000/1e9/07b/1ce967e.jpg
+avatar: https://github.com/rickliao/rickliao.github.io/blob/master/images/face.jpg
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/000/1e9/07b/1ce967e
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: rickliao@utexas.edu
   facebook:
   flickr:
   github: rickliao/rickliao.github.io
